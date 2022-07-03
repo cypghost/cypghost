@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @cypghost
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![cypghost](htts://raw.githubusercontent.com/cypghost/cypghost/main/CYPGHOST.png)
 
-<!---
-cypghost/cypghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @cypghost
+- 👀 I’m interested in Fullstack, Website and software development, and cybersecurity
+- 🌱 I’m currently learning Fullstack Javascript
+- 💞️ I’m looking to collaborate on making a website and more
+- 📫 How to reach me: github.com/cypghost
+
