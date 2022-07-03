@@ -1,4 +1,4 @@
-![cypghost](https://user-images.githubusercontent.com/102286732/177042744-684b61e8-77d3-4fc1-b4c0-a2bfacbdf999.mp4)
+https://user-images.githubusercontent.com/102286732/177042801-60991944-7378-4d37-8f21-a335026c048e.mp4
 
 - 👋 Hi, I’m @cypghost
 - 👀 I’m interested in Fullstack, Website and software development, and cybersecurity
