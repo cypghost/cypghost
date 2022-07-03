@@ -1,4 +1,4 @@
-![cypghost](htts://raw.githubusercontent.com/cypghost/cypghost/main/CYPGHOST.png)
+![cypghost](https://raw.githubusercontent.com/cypghost/cypghost/main/CYPGHOST.png)
 
 - 👋 Hi, I’m @cypghost
 - 👀 I’m interested in Fullstack, Website and software development, and cybersecurity
