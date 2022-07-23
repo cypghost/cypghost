@@ -7,4 +7,4 @@
 - 💞️ I’m looking to collaborate on making a website and more
 - 📫 How to reach me:  cypghost@github.com
  
-https://user-images.githubusercontent.com/102286732/177042801-60991944-7378-4d37-8f21-a335026c048e.mp4
+
