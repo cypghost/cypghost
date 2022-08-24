@@ -1,7 +1,7 @@
 ![CYPGHOST](https://user-images.githubusercontent.com/102286732/177042767-0aa18f6c-6952-4cbb-8072-5472066db01e.png)
 
 # 💫 About Me:
-<h1 align=center>🤖 Hi 👋, I'm Biruk<br>Frontend Developer<br></h1>🔭 I’m currently working on Web Development And Designing<br>👯 I’m looking to collaborate on Front End Development<br>🌱 I’m currently learning Full stack Development And UI-UX Design<br>📫 You Can Reach Me At 📧 hackghost2468@gmail.com
+<h1 align=center>🤖 Hi 👋, I'm Biruk</h1><h1 align=center><br>Frontend Developer<br></h1>🔭 I’m currently working on Web Development And Designing<br>👯 I’m looking to collaborate on Front End Development<br>🌱 I’m currently learning Full stack Development And UI-UX Design<br>📫 You Can Reach Me At 📧 hackghost2468@gmail.com
 
 
 ## 🌐 Socials:
