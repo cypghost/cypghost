@@ -22,6 +22,8 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/mep/) 
+  
+  <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
