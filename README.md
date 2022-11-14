@@ -1,5 +1,5 @@
 ![CYPGHOST](https://github.com/cypghost/cypghost/blob/main/THAT%20SOFTWARE%20LIFE%20(1).png)
-<a align=center href="https://github.com/cypghost" target="_blank" rel="noopener noreferrer"><img src="https://github-business-card.vercel.app/api/github?username=cypghost" alt="cypghost’s GitHub image" width="600" height="314" />
+
 # 💫 About Me:
 <h1 align=center>🤖 Hi 👋, I'm Biruk</h1><h1 align=center><br>Frontend Developer For Now<br></h1>🔭 I’m currently working on Web Development And Designing<br>👯 I’m looking to collaborate on Front End Development<br>🌱 I’m currently learning Full stack Development And UI-UX Design<br>📫 You Can Reach Me At 📧 hackghost2468@gmail.com
 
