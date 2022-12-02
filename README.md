@@ -59,7 +59,6 @@ Developer, Designer & Student
 
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-stats.vercel.app/api?username=cypghost&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="cypghost's GitHub stats" /></a>
 <a href="https://github.com/cypghost" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypghost&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-![](https://github-profile-trophy.vercel.app/?username=cypghost&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 <b>Top Repositories</b>
 
@@ -70,6 +69,10 @@ Developer, Designer & Student
   <a href="https://github.com/cypghost/competitive-programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=competitive-programming&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div>
+
+<b>Github Trophies</b>
+![](https://github-profile-trophy.vercel.app/?username=cypghost&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
 <br /><br /><br /><br /><br /><br /><br />
 
 # Random Dev Quote
