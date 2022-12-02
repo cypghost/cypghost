@@ -16,7 +16,7 @@ Developer, Designer & Student
 <a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cypghost?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jinxoxoxo?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=000000&label=TWITCH+STATUS" /></a>
 
-# Skills 
+# Tech Stacks 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -39,15 +39,15 @@ Developer, Designer & Student
 # Socials
  
 <p align="left">
+<a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.codepen.io/cypghost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/@hackghost2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/19643279/ghost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/LEGBM#3452" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.dribbble.com/DESIGOD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/biruk.mes.3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/biruk__m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/biruk-mesfin-b10397219" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.medium.com/@hackghost2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/19643279/ghost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/UCeOyQjuIqU1-ayFd9t0GtUQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
