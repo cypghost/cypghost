@@ -68,13 +68,12 @@ Developer, Designer & Student
   </a>
   <a href="https://github.com/cypghost/competitive-programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=competitive-programming&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
-</div> <br />
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
 #  Github Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=cypghost&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-<br /><br /><br /><br /><br /><br /><br />
 
 # Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
