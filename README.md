@@ -1,7 +1,7 @@
 ![CYPGHOST](https://github.com/cypghost/cypghost/blob/main/THAT%20SOFTWARE%20LIFE%20(1).png)
 
 ### <h1 align="center"> 🤖 Hi there, I'm Biruk Mesfin! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-====================================================================================================================================
+
 <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 Developer, Designer & Student
