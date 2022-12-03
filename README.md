@@ -1,7 +1,8 @@
 ![CYPGHOST](https://github.com/cypghost/cypghost/blob/main/THAT%20SOFTWARE%20LIFE%20(1).png)
 
-🤖 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Biruk Mesfin
+🤖 Hi, My name is Biruk Mesfin ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
+<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 Developer, Designer & Student
 
