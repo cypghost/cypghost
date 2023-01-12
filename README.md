@@ -55,7 +55,7 @@ Developer, Designer & Student
 </p>
 # GITHUB UNWRAPPED
 
-![CYPGHOST UNWRAPPED][(https://github.com/cypghost/cypghost/blob/main/cypghost'sgithubunwrapped.mp4)]
+[![CYPGHOST UNWRAPPED][(https://github.com/cypghost/cypghost/blob/main/cypghost'sgithubunwrapped.mp4)](https://github.com/cypghost/cypghost/blob/main/cypghost'sgithubunwrapped.mp4)
 
 # Badges
 
