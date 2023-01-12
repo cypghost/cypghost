@@ -53,11 +53,9 @@ Developer, Designer & Student
 <a href="https://www.youtube.com/c/UCeOyQjuIqU1-ayFd9t0GtUQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
-
+<!--
 # Github Unwrapped
-
-[![CYPGHOST](https://github.com/cypghost/cypghost/blob/main/cypghost'sgithubunwrapped.mp4)] (https://github.com/cypghost/cypghost/blob/main/cypghost'sgithubunwrapped.mp4)
-
+-->
 # Badges
 
 <b>My GitHub Stats</b>
