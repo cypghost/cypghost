@@ -56,6 +56,7 @@ Developer, Designer & Student
 <!--
 # Github Unwrapped
 -->
+
 # Badges
 
 <b>My GitHub Stats</b>
