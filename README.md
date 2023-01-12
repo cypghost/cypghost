@@ -56,13 +56,7 @@ Developer, Designer & Student
 
 # Github Unwrapped
 
-<video>
-
-<source src="https://github.com/cypghost/cypghost/blob/main/cypghost's%20GitHubUnwrapped.mp4" type="video/mp4">
-<source src="https://github.com/cypghost/cypghost/blob/main/cypghost's%20GitHubUnwrapped.mp4" type="video/ogg">
-Your browser does not support the audio element.
-
-</video>
+<iframe src=""https://github.com/cypghost/cypghost/blob/main/cypghost's%20GitHubUnwrapped.mp4"></iframe>
 
 # Badges
 
