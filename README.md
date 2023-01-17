@@ -16,6 +16,7 @@ Developer, Designer & Student
 <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Bi2kmes?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"/></a>
 <a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cypghost?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jinxoxoxo?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=000000&label=TWITCH+STATUS" /></a>
+<a href="https://linktr.ee/biruk__m" target="_blank" rel="noreferrer">Portfolio</a>
 
 # Tech Stacks 
 
