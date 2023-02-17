@@ -53,9 +53,6 @@ Developer, Designer & Student
 <a href="https://www.youtube.com/c/UCeOyQjuIqU1-ayFd9t0GtUQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
-<!--
-# Github Unwrapped
--->
 
 # LeetCode Stats
 
@@ -65,27 +62,18 @@ Developer, Designer & Student
 
 <b>My GitHub Stats</b>
 
-
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cypghost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
 alt="GitHub Commits Graph" /></a>
 
 <b> My GitHub TimeLine </b>
-<div align="left">
  
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cypghost&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- 
-</div>
 
 <b> Top Languages </b>
 
- <div align="right" width="100%">
- 
- <a href="http://www.github.com/cypghost" align="left">
- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypghost&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ <a href="http://www.github.com/cypghost">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypghost&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
  </a>
- 
-<!-- <a href="https://github.com/cypghost" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypghost&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
  
 <b>Top Repositories</b>
 
