@@ -101,7 +101,7 @@ alt="GitHub Commits Graph" /></a>
   </a>
 </div>
 <div align="right">
-  <a href="https://github.com/cypghost/competitive-programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=competitive-programming&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
+  <a href="https://github.com/cypghost/competitive-programming" align="right"><img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=competitive-programming&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
  </div>
 
