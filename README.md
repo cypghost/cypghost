@@ -76,13 +76,8 @@ alt="GitHub Commits Graph" /></a>
  
 </div>
 
-<div align="left" width="100%">
- 
-<a align="right" width="45%"  href="http://www.github.com/cypghost" align="right">
- <img src="https://github-readme-stats.vercel.app/api?username=cypghost&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="cypghost's GitHub stats" />
- </a>
- 
- </div>
+<b> Top Languages </b>
+
  <div align="right" width="100%">
  
  <a href="http://www.github.com/cypghost" align="left">
