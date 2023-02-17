@@ -86,12 +86,12 @@ alt="GitHub Commits Graph" /></a>
  
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
+<div width="100%" align="left">
   <a href="https://github.com/cypghost/cypghost" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=cypghost&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
 </div>
-<div align="center">
+<div align="right">
   <a href="https://github.com/cypghost/competitive-programming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=competitive-programming&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
  </div>
