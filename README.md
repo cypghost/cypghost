@@ -57,6 +57,9 @@ Developer, Designer & Student
 # Github Unwrapped
 -->
 
+# 📊 LeetCode Stats:
+[![cypghost's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cypghost&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 # Badges
 
 <b>My GitHub Stats</b>
