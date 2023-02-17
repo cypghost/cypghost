@@ -65,17 +65,17 @@ Developer, Designer & Student
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cypghost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
 alt="GitHub Commits Graph" /></a>
 
-<b> My GitHub TimeLine </b>
+# My GitHub TimeLine </b>
  
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cypghost&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b> Top Languages </b>
+# Top Languages </b>
 
  <a href="http://www.github.com/cypghost">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypghost&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
  </a>
  
-<b>Top Repositories</b>
+# Top Repositories
 
   <a href="https://github.com/cypghost/cypghost" align="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=cypghost&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
