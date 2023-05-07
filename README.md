@@ -1,4 +1,4 @@
-![CYPGHOST](https://github.com/cypghost/cypghost/blob/main/Capture-removebg-preview.png)
+![CYPGHOST]([https://github.com/cypghost/cypghost/blob/main/Capture-removebg-preview.png](https://github.com/cypghost/cypghost/blob/main/THAT%20SOFTWARE%20LIFE%20(1).png))
 
 ### <h1 align="center"> 🤖 Hi there, I'm Biruk Mesfin! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
