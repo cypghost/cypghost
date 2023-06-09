@@ -8,10 +8,9 @@ Developer, Designer & Student
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
 *   ✉️  You can contact me at [briukmesfin246@gmail.com](mailto:briukmesfin246@gmail.com)
-*   🚀  I'm currently working on [BKMNPodcast](http://uplifted-evolution-720474.framer.app) 
+*   🤝  I'm currently working on a new product and I want to collaborate
 *   🧠  I'm learning & excelling on Full Stack Development
-*   🤝  I'm open to collaborating on Interesting Projects 
-*   &#129297;  I'm came up with a new product and I want to collaborate
+<!-- *  🚀  I'm open to collaborating on Interesting Projects [BKMNPodcast](http://uplifted-evolution-720474.framer.app)  -->
 *   ⚡  I just need little boost, 💫 Maybe Coffee
 
 <!-- <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Bi2kmes?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"/></a>
