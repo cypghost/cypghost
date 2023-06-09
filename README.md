@@ -64,12 +64,12 @@ Developer, Designer & Student
 
 [![cypghost's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cypghost&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-# Badges
+<!-- # Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cypghost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
-alt="GitHub Commits Graph" /></a>
+alt="GitHub Commits Graph" /></a> -->
 
 # My GitHub TimeLine </b>
  
