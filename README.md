@@ -7,7 +7,7 @@
 Developer, Designer & Student
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
-*   ✉️  You can contact me at [briukmesfin246@gmail.com](mailto:briukmesfin246@gmail.com)
+*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/biruk-mesfin)
 *   🤝  I'm currently working on a new product and I want to collaborate
 *   🧠  I'm learning & excelling on Full Stack Development
 *   ⚡  I just need little boost, 💫 Maybe Coffee
