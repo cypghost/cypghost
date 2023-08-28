@@ -4,7 +4,7 @@
 
 <img align="right" width=250px height=230px alt="side_sticker" src="https://github.com/cypghost/cypghost/blob/main/Untitled%20design.png" />
 
-Developer, Designer & Student
+Developer + Designer + Student
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/biruk-mesfin)
@@ -16,7 +16,7 @@ Developer, Designer & Student
 <!-- <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Bi2kmes?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"/></a>
 <a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cypghost?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
 <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jinxoxoxo?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=000000&label=TWITCH+STATUS" /></a> 
-
+-->
 # Tech Stacks 
 
 <p align="left">
@@ -64,12 +64,14 @@ Developer, Designer & Student
 
 [![cypghost's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cypghost&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+<!--
 # Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/cypghost"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cypghost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
 alt="GitHub Commits Graph" /></a>
+-->
 
 # My GitHub TimeLine </b>
  
