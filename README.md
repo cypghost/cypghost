@@ -85,11 +85,11 @@ alt="GitHub Commits Graph" /></a>
 
 # Top Repositories
 
-  <a href="https://github.com/cypghost/cypghost">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=cypghost&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
+  <a href="https://github.com/cypghost/Abyssinia-Mind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=Abyssinia-Mind&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/cypghost/competitive-programming">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=competitive-programming&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
+  <a href="https://github.com/cypghost/A2SV">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=A2SV&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
   </a>
 
 #  Github Trophies
