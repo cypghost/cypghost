@@ -1,46 +1,32 @@
-<!-- ![CYPGHOST](https://github.com/cypghost/cypghost/blob/main/THAT%20SOFTWARE%20LIFE%20(1).png) -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+👨‍💻+I'm+BIRUK+MESFIN!;+I'm+a+Developer,+Designer,+Content+Creator;" />
+</p>
 
-### <h1 align="center"> 🤖 Hi there, I'm Biruk Mesfin! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<a href="https://visitcount.itsvg.in" target="_blank" rel="noreferrer">
+  <img src="https://visitcount.itsvg.in/api?id=cypghost&icon=0&color=0" alt="Visit Count" />
+</a>
 
 <img align="right" width=250px height=230px alt="side_sticker" src="https://github.com/cypghost/cypghost/blob/main/Untitled%20design.png" />
 
-Developer + Designer + Student
-
 *   🌍  I'm based in Addis Ababa, Ethiopia
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/biruk-mesfin)
-*   🤝  I'm currently working on a new product and I want to collaborate
+*   🤝  I'm currently working on a new product and 💫 I want to collaborate
 *   🧠  I'm learning & excelling on Full Stack Development
-*   ⚡  I just need little boost, 💫 Maybe Coffee
-<!-- *  🚀  I'm open to collaborating on Interesting Projects [BKMNPodcast](http://uplifted-evolution-720474.framer.app)  -->
+*   ⚡  You can find my works at [My Portfolio](https://bkmn.me)  
 
-<!-- <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Bi2kmes?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"/></a>
-<a href="https://www.github.com/cypghost" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cypghost?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
-<a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/jinxoxoxo?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=000000&label=TWITCH+STATUS" /></a> 
--->
 # Tech Stacks 
 
 <p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
-
-# Learning
-
-<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 # Socials
@@ -62,50 +48,16 @@ Developer + Designer + Student
 
 # LeetCode Stats
 
-[![cypghost's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=cypghost&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<a href="https://github.com/KnlnKS/leetcode-stats" target="_blank" rel="noreferrer">
+  <img src="https://leetcode-stats-six.vercel.app/?username=cypghost&theme=dark" alt="cypghost's LeetCode stats" />
+</a>
 
-<!--
-# Badges
+# Github Timeline
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cypghost"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cypghost&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
-alt="GitHub Commits Graph" /></a>
--->
-
-# My GitHub TimeLine </b>
- 
-<a href="http://www.github.com/cypghost"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cypghost&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-# Top Languages </b>
-
- <a href="http://www.github.com/cypghost">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypghost&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
- </a>
-
-# Top Repositories
-
-  <a href="https://github.com/cypghost/Abyssinia-Mind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=Abyssinia-Mind&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/cypghost/A2SV">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=cypghost&repo=A2SV&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" />
-  </a>
+<a href="http://www.github.com/cypghost" style="align: left;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cypghost&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
 
 #  Github Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=cypghost&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
-
-# Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![](https://visitcount.itsvg.in/api?id=cypghost&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--
-<img src="https://gpvc.arturio.dev/cypghost" alt="Profile views"/>
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=cypghost&theme=onestar&no-frame=true&no-bg=false&margin-w=4" />
