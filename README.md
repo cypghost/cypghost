@@ -5,6 +5,9 @@
 <a href="https://visitcount.itsvg.in" target="_blank" rel="noreferrer">
   <img src="https://visitcount.itsvg.in/api?id=cypghost&icon=0&color=0" alt="Visit Count" />
 </a>
+<a href="https://wakatime.com/@018cdff5-c7e0-4afd-b223-bc54593c17fe" target="_blank" rel="noreferrer">
+  <img src="https://wakatime.com/badge/user/018cdff5-c7e0-4afd-b223-bc54593c17fe.svg)" alt="WakaTime" />
+</a>
 
 <img align="right" width=250px height=230px alt="side_sticker" src="https://github.com/cypghost/cypghost/blob/main/Untitled%20design.png" />
 
