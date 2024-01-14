@@ -53,7 +53,6 @@
     <a href="https://www.twitter.com/Bi2kmes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
     <a href="https://www.youtube.com/c/UCeOyQjuIqU1-ayFd9t0GtUQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
     <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-    <a href="https://wakatime.com/@018cdff5-c7e0-4afd-b223-bc54593c17fe" target="_blank" rel="noreferrer"><img src="https://wakatime.com/badge/user/018cdff5-c7e0-4afd-b223-bc54593c17fe.svg" width="32" height="32" /></a>
 </p>
 
 # LeetCode Stats
