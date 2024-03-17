@@ -10,7 +10,9 @@
 <a href="https://wakatime.com/@018cdff5-c7e0-4afd-b223-bc54593c17fe">
     <img src="https://wakatime.com/badge/user/018cdff5-c7e0-4afd-b223-bc54593c17fe.svg" alt="Total time coded since Jan 6 2024" />
 </a>
-
+<a href="https://codeforces.com/profile/Code-13">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Code-13" alt="Codeforces Badge">
+</a>
 <img align="right" width=250px height=230px alt="side_sticker" src="https://github.com/cypghost/cypghost/blob/main/Untitled%20design.png" />
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
