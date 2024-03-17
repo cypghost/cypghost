@@ -13,6 +13,7 @@
 <a href="https://codeforces.com/profile/Code-13">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Code-13" alt="Codeforces Badge">
 </a>
+
 <img align="right" width=250px height=230px alt="side_sticker" src="https://github.com/cypghost/cypghost/blob/main/Untitled%20design.png" />
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
