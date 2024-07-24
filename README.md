@@ -20,7 +20,7 @@
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/biruk-mesfin)
 *   🤝  I'm currently working on a new product and 💫 I want to collaborate
 *   🧠  I'm learning & excelling on Full Stack Development
-*   ⚡  You can find my works at [My Portfolio](https://bkmn.me)  
+*   ⚡  You can find my works at [My Portfolio](https://biruk-mesfin.vercel.app)  
 
 # Tech Stacks 
 
