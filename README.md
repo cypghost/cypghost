@@ -59,11 +59,13 @@
     <a href="https://www.twitch.tv/jinxoxoxo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
-# LeetCode Stats
+<!-- # LeetCode Stats
 
 <a href="https://github.com/KnlnKS/leetcode-stats" target="_blank" rel="noreferrer">
   <img src="https://leetcode-stats-six.vercel.app/?username=cypghost&theme=dark" alt="cypghost's LeetCode stats" />
 </a>
+
+-->
 
 # Github Timeline
 
